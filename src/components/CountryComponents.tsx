@@ -1,5 +1,6 @@
 import { Country } from "../types";
 import "./CountryComponents.css";
+import React from "react";
 interface countryComponentsProps {
   country: Country;
   index: number;
