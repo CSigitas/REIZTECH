@@ -1,0 +1,14 @@
+.CountryComponents {
+  height: 150px;
+  width: 100%;
+  background-color: #ccffcc;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.CountryComponents p {
+  margin: 0;
+  margin-left: 20px;
+}
